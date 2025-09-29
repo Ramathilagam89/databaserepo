@@ -1,4 +1,4 @@
-/*Thilaga modified query*/
+/*Thilaga 2nd time modified query*/
 create database stgdb;
 CREATE TABLE stgdb.stg_accounts (
     AccountID VARCHAR(50),
